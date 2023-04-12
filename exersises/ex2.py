@@ -23,5 +23,5 @@ class Triang:
         return result
 
 
-Tr = Triang(5, 10, 12)
+Tr = Triang(12, 1, 12)
 print(Tr.is_Triang())
